@@ -34,21 +34,24 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![hasif empd](https://github.com/NagalapuramHasif/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365567/bca03482-fa57-457d-8343-c84a3ab367a5)
+![hasif empd 1](https://github.com/NagalapuramHasif/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365567/aca791f4-b4f4-415d-ab2c-4ae2ca080f99)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![hasif empd 1](https://github.com/NagalapuramHasif/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365567/f651c7ae-343a-4346-bed0-1b911a88b963)
+![hasif empd 2](https://github.com/NagalapuramHasif/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365567/a57d5d6f-e991-4f55-aacf-bbbad1d44696)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![hasif empd 2](https://github.com/NagalapuramHasif/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365567/a7573a4a-0e1f-432d-ab60-15391e97436e)
+![hasif empd 3](https://github.com/NagalapuramHasif/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365567/c3be9627-df0e-4506-80af-e6c38c874f28)
 
 ## Output:
+![hasif empd 4](https://github.com/NagalapuramHasif/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365567/246c19a9-9e59-4deb-8b4c-34878ad2f4bb)
+![hasif empd 5](https://github.com/NagalapuramHasif/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365567/a2ec4697-96b4-41fd-90d7-a9943de35fbc)
+![hasif empd 6](https://github.com/NagalapuramHasif/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365567/93f6af4a-9568-4e1f-8eb5-96da6bc5c92b)
 
-### Name:
-### Register Number:
+### Name:Nagalapuram Hasif
+### Register Number:23010367
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
